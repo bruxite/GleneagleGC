@@ -1,0 +1,5 @@
+<!DOCTYPE connections>
+<qgsXYZTilesConnections version="1.0">
+    <xyztiles zmin="0" name="Bing" tilePixelRatio="2" username="" authcfg="" password="" url="http://ecn.t3.tiles.virtualearth.net/tiles/a{q}.jpeg?g=1" zmax="21" referer=""/>
+    <xyztiles zmin="0" name="Google" tilePixelRatio="2" username="" authcfg="" password="" url="https://mt1.google.com/vt/lyrs=s&amp;x={x}&amp;y={y}&amp;z={z}" zmax="21" referer=""/>
+</qgsXYZTilesConnections>

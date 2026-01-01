@@ -1,0 +1,4 @@
+<!DOCTYPE connections>
+<qgsXYZTilesConnections version="1.0">
+    <xyztiles referer="" authcfg="" name="Apple Proxy" username="" url="http://localhost:8080/tile?style=7&amp;size=2&amp;scale=1&amp;z={z}&amp;x={x}&amp;y={y}" http-header:referer="" zmin="0" zmax="21" tilePixelRatio="2" password=""/>
+</qgsXYZTilesConnections>

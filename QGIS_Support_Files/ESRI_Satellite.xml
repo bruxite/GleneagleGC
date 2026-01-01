@@ -1,0 +1,4 @@
+<!DOCTYPE connections>
+<qgsXYZTilesConnections version="1.0">
+    <xyztiles url="https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}" http-header:referer="" authcfg="" tilePixelRatio="0" username="" referer="" zmin="0" password="" zmax="19" name="ESRI Satellite"/>
+</qgsXYZTilesConnections>
